@@ -12,7 +12,7 @@ var boolean = new Boolean(true)
 console.log("boolean", boolean);
 
 
-
+ 
 
 // CLASES COMPUESTAS//
 
